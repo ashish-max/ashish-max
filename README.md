@@ -35,14 +35,16 @@
 ## My Github Stats 📕
 
 <p align = "center">
-<img src = "https://github-readme-stats.vercel.app/api?username=ashish-max&show_icons=true&title_color=#ffcc00&text_color=#ffcc00&layout=compact">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-max&hide=css,html&theme=radical&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api?username=ashish-max&show_icons=true&theme=gruvbox&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-max&hide=css,html&theme=gruvbox&layout=compact">
   </p>
 <br />
 
 ## Spotify Playing 🎧
 
+<p align = "center">
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+   </p>
 
 <br />
 
