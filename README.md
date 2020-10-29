@@ -35,10 +35,11 @@
 ## My Github Stats 📕
 
 <p align = "center">
-<img src = "https://github-readme-stats.vercel.app/api?username=ashish-max&show_icons=true&theme=gruvbox&layout=compact">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-max&hide=css,html&theme=gruvbox&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api?username=ashish-max&show_icons=true&theme=great-gatsby&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-max&hide=css,html&theme=great-gatsby&layout=compact">
   </p>
 <br />
+
 
 ## Spotify Playing 🎧
 
@@ -47,4 +48,8 @@
 <br />
 
 [git]: https://github.com/ashish-max
+
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ashish-max" id="counter">
+</p>
 
