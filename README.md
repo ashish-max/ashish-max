@@ -9,12 +9,12 @@
 <br />
 
 
-## ⨀ I'm a Compititive Programmer , Developer, and Designer!
+## ⨀ I'm a Compititive Programmer , Developer, and Designer!🎉
 
-
-<br />
-
----
+<p align = "center">
+<img src="https://github.com/ashish-max/ashish-max/blob/main/my%20details.gif">
+  </p>
+<br />  
 
 ## ⨀ Languages and Tools ⚡
 
