@@ -33,8 +33,8 @@
 ## My Github Stats 📕
 
 <p align = "center">
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ashish-max&show_icons=true&theme=gruvbox&bg_color=#000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-max&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src = "https://github-readme-stats.vercel.app/api?username=ankush0939&show_icons=true&theme=radical&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ankush0939&hide=css,html&theme=tokyonight&layout=compact">
   </p>
 <br />
 
