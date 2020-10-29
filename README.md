@@ -35,8 +35,8 @@
 ## My Github Stats 📕
 
 <p align = "center">
-<img src = "https://github-readme-stats.vercel.app/api?username=ankush0939&show_icons=true&theme=radical&layout=compact">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ankush0939&hide=css,html&theme=tokyonight&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api?username=ashish-max&show_icons=true&title_color=#ffcc00&text_color=#ffcc00&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-max&hide=css,html&theme=radical&layout=compact">
   </p>
 <br />
 
