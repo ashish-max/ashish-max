@@ -11,9 +11,36 @@
 
 <img align="center" src="https://github.com/ashish-max/ashish-max/blob/main/my%20intes.png"/>
 
-<p align = "center">
-<img src="https://github.com/ashish-max/ashish-max/blob/main/my%20details.gif">
-  </p>
+```toml
+
+[personal]
+name = 'Ashish Kumar Behera'
+city = 'Burla, India'
+email = 'touchtoashish2001 "at" gmail.com'
+
+[professional]
+currently-employed = false
+title = 'Comp Sc. Undergrad'
+University = 'Veer Surendrs Sai University of Technology'
+
+[bio]
+categories = [
+  'generalist',
+]
+interests = [
+  'Full stack development',
+  'Machine Learning',
+  'Artificial intelligence',
+  'open-source',
+]
+programming-languages = [
+  'c/cpp',
+  'python',
+  'Java',
+  'Dart',
+]
+
+```
 <br />  
 
 <img align="center" src="https://github.com/ashish-max/ashish-max/blob/main/langs%20n%20tools.png"/>
