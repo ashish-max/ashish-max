@@ -5,7 +5,17 @@
 
 <img align="center" src="https://github.com/ashish-max/ashish-max/blob/main/contact%20with%20me.png"/>
 
-<a>[<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me/919777100189)</a> <a>[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/ashish.behera.10888)</a> <a>[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/call_me_a_s_h_u_/)</a>  <a>[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/AshishK76840403)</a> <a>[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ashish-kumar-4578a9199/)
+<p align="left">
+<a href="https://twitter.com/AshishK76840403" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="AshishK76840403" height="40" width="50" /></a>
+<a href="https://stackoverflow.com/users/14707833/ashish-kumar-behera" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ashish-kumar-behera" height="40" width="50" /></a>
+<a href="https://www.kaggle.com/ashishk2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="ashishk2001" height="40" width="50" /></a>
+<a href="https://www.facebook.com/ashish.behera.10888" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/ashish.behera.10888" height="40" width="50" /></a>
+<a href="https://www.instagram.com/call_me_a_s_h_u_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_its_neon" height="40" width="50" /></a>
+<a href="https://www.codechef.com/users/metrixofls" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="metrixofls" height="40" width="50" /></a>
+<a href="https://www.hackerrank.com/touchtoashish201" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="touchtoashish201" height="40" width="50" /></a>
+<a href="https://codeforces.com/profile/Ashishk2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Ashishk2001" height="40" width="50" /></a>
+<a href="https://aprofileuth.geeksforgeeks.org/user/user_euog/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="https://aprofileuth.geeksforgeeks.org/user/user_euog/" height="40" width="50" /></a>
+</p>
   
 <br />
 
