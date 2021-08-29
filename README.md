@@ -6,7 +6,7 @@
 <img align="center" src="https://github.com/ashish-max/ashish-max/blob/main/contact%20with%20me.png"/>
 
 <p align="left">
-<a href="https://twitter.com/AshishK76840403" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="AshishK76840403" height="40" width="50" /></a>
+<a href="https://twitter.com/AshishK76840403" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="AshishK76840403" height="40" width="50" background='#FFFFFF'/></a>
 <a href="https://stackoverflow.com/users/14707833/ashish-kumar-behera" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ashish-kumar-behera" height="40" width="50" /></a>
 <a href="https://www.kaggle.com/ashishk2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="ashishk2001" height="40" width="50" /></a>
 <a href="https://www.facebook.com/ashish.behera.10888" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/ashish.behera.10888" height="40" width="50" /></a>
