@@ -58,7 +58,7 @@ programming-languages = [
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][git]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][git]
 [<img align="left" alt="C" width="26px" src="https://github.com/github/explore/blob/master/topics/c/c.png" />][git]
-[<img align="left" alt="Android Studios" width="26px" src="https://github.com/github/explore/blob/master/topics/android/android.png" />][git]
+[<img align="left" alt="Android Studios" width="26px" src="https://github.com/github/explore/blob/main/topics/android/android.png" />][git]
 [<img align="left" alt="Arduino" width="26px" src="https://github.com/github/explore/blob/master/topics/arduino/arduino.png" />][git]
 [<img align="left" alt="java" width="26px" src="https://github.com/github/explore/blob/master/topics/java/java.png" />][git]
 [<img align="left" alt="Linux" width="26px" src="https://github.com/github/explore/blob/master/topics/linux/linux.png" />][git]
